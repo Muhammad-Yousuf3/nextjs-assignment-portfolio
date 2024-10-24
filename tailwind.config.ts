@@ -8,6 +8,13 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      screens: {
+        'w-350': '350px', // Custom breakpoint for 350px
+        'w-500': '500px', // Custom breakpoint for 400px
+      },
+      fontFamily: {
+        sans: ['Roboto', 'sans-serif'],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
