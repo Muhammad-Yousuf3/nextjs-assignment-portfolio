@@ -15,7 +15,7 @@ function Header(){
 />
         {/* Logo */}
       <section>
-        <h2 className="px-10 font-bold text-3xl text-white ">Portfolio</h2>
+        <h2 className="px-10 font-bold text-3xl text-white ">Yousuf</h2>
       </section>
 
       <button onClick={Click} className="text-white w-350:block md:hidden text-3xl pt-3 pr-5"><i className="ri-menu-line"></i></button>      
@@ -26,9 +26,9 @@ function Header(){
 
         <ul className="flex flex-col md:gap-x-4 gap-y-5 float-left mx-5 items-center md:float-none md:gap-y-0 md:flex-row md:py-5 py-10">
           <li className="hover:text-purple-600"><Link href="/">Home</Link></li>
-          <li className="hover:text-purple-600"><Link href="/about">About</Link></li>
-          <li className="hover:text-purple-600"><Link href="/project">Projects</Link></li>
-          <li className="hover:text-purple-600"><Link href="/contact">ContactMe</Link></li>
+          <li className="hover:text-purple-600"><Link href="/components/about">About</Link></li>
+          <li className="hover:text-purple-600"><Link href="/components/project">Projects</Link></li>
+          <li className="hover:text-purple-600"><Link href="/components/contact">ContactMe</Link></li>
         </ul>
         
       </nav>

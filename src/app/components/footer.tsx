@@ -5,7 +5,7 @@ function Myfooter () {
          
          <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css"/>
         
-        <h2 className="text-white text-3xl font-bold px-10">Portfolio</h2>
+        <h2 className="text-white text-3xl font-bold px-10">Yousuf</h2>
         <h3 className="text-gray-500 text-xl font-semibold ">Let&apos;s Build Together.</h3>
         
        

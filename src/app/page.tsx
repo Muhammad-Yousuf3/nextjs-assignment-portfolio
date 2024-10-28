@@ -13,10 +13,10 @@ function Homepage(){
   
     {/* Text */}
     <section id="Home" className="sm:w-[50%] sm:max-h-min mt-32 sm:mb-20 w-350:w-[100%] w-350:pl-5 md:pl-0 w-350:pr-5">
-      <h1 className="pb-5 text-white  font-extrabold text-7xl">Hello,I&apos;M</h1>
+      <h1 className="pb-5 text-white  font-extrabold text-7xl">Hi,I&apos;M</h1>
       <h2 className="text-purple-600 font-semibold text-5xl ">Muhammad Yousuf</h2>
       <h3 className="text-white font-semibold text-3xl ">Front-End Developer</h3>
-      <p className="pt-5 text-justify  text-white text-xl font-semibold " id="skill">Hi, I&apos;M Muhammad Yousuf, a front-end developer focused on creating efficient and visually appealing web experiences. Hands-on experience in frameworks like Next.js and Tailwind CSS. 
+      <p className="pt-5 text-justify  text-white text-xl font-semibold " id="skill">Focused on creating efficient and visually appealing web experiences. Hands-on experience in frameworks like Next.js and Tailwind CSS. 
         I&apos;M passionate about solving real-world problems with modern technologies.
        My goal is to keep learning, grow as a full-stack developer, and contribute to innovative projects.</p>
     </section>
