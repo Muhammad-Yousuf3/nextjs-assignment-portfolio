@@ -18,8 +18,8 @@ function Project(){
       <h1 className="text-white font-bold text-4xl ml-5 md:mx-10  md:text-left">My Projects</h1>
 
      <section className="mt-5 ml-2 md:ml-10 flex gap-5">
-     <button onClick={tsBtn} className={`w-44 h-14 rounded-lg text-center text-white bg-zinc-800 hover:transition-transform hover:scale-110  ${tsopen ? 'bg-purple-500' : 'bg-zinc-800 '}`}>TypeScript</button>
-     <button onClick={frontendBtn} className={`w-44 h-14 rounded-lg text-center text-white bg-zinc-800 hover:transition-transform hover:scale-110 ${frontendOpen ? 'bg-zinc-800' : 'bg-purple-500 '} `}>Front-End</button>
+     <button onClick={tsBtn} className={`w-44 h-14 rounded-lg text-center text-white bg-zinc-800 hover:transition-transform hover:scale-110  ${tsopen ? 'bg-purple-800' : 'bg-zinc-800 '}`}>TypeScript</button>
+     <button onClick={frontendBtn} className={`w-44 h-14 rounded-lg text-center text-white bg-zinc-800 hover:transition-transform hover:scale-110 ${frontendOpen ? 'bg-zinc-800' : 'bg-purple-800 '} `}>Front-End</button>
      </section> 
       
       <section className=" bg-black">
